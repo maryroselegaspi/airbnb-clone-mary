@@ -1,0 +1,41 @@
+.banner{
+    background: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/cd91ff3b-6512-415b-99a6-0a1a649cdd54/d5syhv7-ab55e474-53a2-4915-84bb-539dc2f18bb0.jpg/v1/fill/w_1192,h_670,q_70,strp/living_room_wide_angle_by_donmichael71_d5syhv7-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3siaGVpZ2h0IjoiPD0xMDgwIiwicGF0aCI6IlwvZlwvY2Q5MWZmM2ItNjUxMi00MTViLTk5YTYtMGExYTY0OWNkZDU0XC9kNXN5aHY3LWFiNTVlNDc0LTUzYTItNDkxNS04NGJiLTUzOWRjMmYxOGJiMC5qcGciLCJ3aWR0aCI6Ijw9MTkyMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hWnI_cPuZe5iy6A8RqJewKQyZ-kdvJVNkBt8S8oKtkA') center;
+    height: 55vh;
+    position: relative;
+}
+.banner__info{
+    background-color: black;
+    color: white;
+    padding-top: 25vh;
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 40px;
+    width: 300px;
+}
+.banner__search{
+    display: flex;
+    flex-direction: column;
+}
+
+.banner__searchButton{
+    background-color: white !important;
+    font-weight: 900 !important;
+    text-transform: inherit !important;
+    color: #ff7779 !important;
+}
+.banner__info > button{
+    background-color: #ff7779;
+    color: white;
+    text-transform: inherit;
+    margin-top: 20px;
+    font-weight: 600;
+}
+.banner__info > h5{
+    margin-top: 10px;
+}
+.banner__info > button{
+    background-color: #ff7779;
+    color: white;
+    margin-top: 20px;
+    font-weight: 600;
+}
